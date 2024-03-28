@@ -1,1 +1,1 @@
-# Pneumonia_classifier
+A pneumonia classifier is a tool that helps determine whether a person has pneumonia or not. This can be accomplished through various methods, such as a physical examination, medical history review, and imaging tests like a chest X-ray, CT scan. pneumonia classifier can provide valuable information to help diagnose and treat pneumonia, which is an infection in the lungs caused by pathogens like bacteria, viruses, fungi, and parasites. Symptoms can include coughing, mucus production, fever, chills, and shortness of breath.
